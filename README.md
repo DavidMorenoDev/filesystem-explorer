@@ -1,3 +1,9 @@
+In addition, you will have to add the following sections in the readme file:
+Comparison of the original design (Wireframe) with the final result of the project
+Comparison of the use case diagram with the actions that the user can finally perform
+Comparison of the original use case diagram with the final user actions
+How you have organized and distributed the tasks
+
 `#html` `#css` `#js` `#php` `#master-in-software-development`
 
 # PHP Local FileSystem explorer <!-- omit in toc -->
@@ -6,10 +12,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
->In this project you will have to create a system file explorer that allows the user to navigate, create directories and upload files in the same way as he would in his usual operating system. 
+> In this project you will have to create a system file explorer that allows the user to navigate, create directories and upload files in the same way as he would in his usual operating system.
 
->The file explorer is a tool that allows you to directly view and manipulate the files and directories associated with a path, so you must take into account from which path the user starts and which path they can access.
-
+> The file explorer is a tool that allows you to directly view and manipulate the files and directories associated with a path, so you must take into account from which path the user starts and which path they can access.
 
 ## Index <!-- omit in toc -->
 
@@ -32,7 +37,7 @@
 - In the case of using different programming languages ​​always define the implementation in separate terms
 - Remember that it is important to divide the tasks into several sub-tasks so that in this way you can associate each particular step of the construction with a specific commit
 - You should try as much as possible that the commits and the planned tasks are the same
-Delete files that are not used or are not necessary to evaluate the project
+  Delete files that are not used or are not necessary to evaluate the project
 
 ## Repository
 
