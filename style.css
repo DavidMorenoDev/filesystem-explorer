@@ -1,0 +1,16 @@
+.two-main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.directoris {
+  background-color: lightcoral;
+  width: 400px;
+  height: 400px;
+}
+
+.files {
+  background-color: lightblue;
+  width: 400px;
+  height: 400px;
+}
